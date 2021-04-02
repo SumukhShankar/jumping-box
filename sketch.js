@@ -36,7 +36,7 @@ function setup(){
     surface4.shapeColor = "blue";
 
     squarebox = createSprite(400,200,30,30);
-    squarebox.x = Math.round(random(20,375));
+    squarebox.x = Math.round(random(20,775));
     squarebox.shapeColor = "white";
     squarebox.velocityX = -3;
     squarebox.velocityY = 9;
